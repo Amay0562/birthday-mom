@@ -1,0 +1,174 @@
+.fav_color li{
+	font-family: cursive;
+	font-size: 30px;
+	display: inline;
+	background-color: indianred;
+}
+#lomom{
+	font-family: cursive;
+	background-color: palevioletred;
+}
+.hard{
+	color: darkred;
+}
+.mid{
+	color: rgb(204,204,0);
+}
+.easy{
+	color: greenyellow;
+}
+
+.facts{
+	display: inline-block;
+	width: 10em;
+	height: 7em;
+	border: 0.3em turquoise dotted;
+	background-color:royalblue;
+	color: red;
+}
+body{
+	background-color: lightgoldenrodyellow;
+}
+.black{
+	color:black;
+}
+p{
+	font-family: cursive;
+}
+.fantasy{
+	font-family: fantasy;
+	color:orange;
+	font-size: 33px;
+}
+h2{
+	color: turquoise;
+}
+.img_design{
+	border: 0.4em lightblue dashed;
+
+}
+.img_brown{
+	border: 0.4em burlywood dotted;
+}
+li{
+	color: orange;
+}
+.tasty{
+	color: indianred;
+}
+.img_purple{
+	border: 3.5em rebeccapurple dashed;
+}
+
+.strip{
+
+	border: 3em  rgb(255,102,102) dashed;
+	background-color: rgb(255,102,102);
+	height: 250px;
+
+}
+#des{
+	font: monospace;
+	vertical-align: middle;
+	font-size: 80;
+}
+.h_link{
+
+	
+	font-family: cursive;
+	font-size: 10px;
+    
+}
+a:link{
+	color: indianred;
+	        
+
+}
+a:visited{
+	color: darkseagreen;
+}
+a:hover{
+	color: orange;
+}
+a:active{
+	color: blue;
+}
+a{
+	text-decoration: none;
+}
+.test{
+	background-color: firebrick;
+	padding: 15px 25px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.promote{
+	cursor: help;
+	cursor: move;
+	cursor: crosshair;
+	cursor: n-resize;
+	cursor: e-resize;
+	cursor: w-resize;
+	cursor: s-resize;
+	cursor: pointer;
+	cursor: wait;
+	cursor: progress;
+	cursor: not-allowed;
+}
+.dropdown{
+	position: relative;
+	display: inline-block;
+}
+.dropdown_content{
+	display: none;
+	position: absolute;
+	background-color: palevioletred;
+	min-width: 160px;
+	padding: 15px 10px;
+	box-shadow: 0px 8px 16px 0px;
+
+
+
+}
+.dropdown:hover .dropdown_content{
+	display: block;
+}
+
+h1{
+	color: firebrick;
+	font-family: monospace;
+}
+#pancake {
+	height: 25%;
+	width: 25%;
+}
+.img_red{
+	border: 2.5em indianred dashed;
+}
+.right{
+	align: right;
+}
+#teacher{
+	width: 50%;
+	height: 200;
+}
+.left{
+	align: left;
+}
+#angry{
+	width: 25%;
+	height: 25%;
+}
+#right{
+	align: right;
+}
+.drawings{
+	border: 0.7em palevioletred dotted;
+
+}
+#margin{
+	margin: 6em;
+}
+
+
